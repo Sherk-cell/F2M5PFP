@@ -317,9 +317,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/C#/Healthsys/EnemyHealthComp.cs"
+"Assets/C#/Healthsys/HealthComp.cs"
+"Assets/C#/Healthsys/Playerhealth.cs"
 "Assets/C#/path.cs"
 "Assets/C#/Pathfollower.cs"
 "Assets/C#/Waypoints.cs"
+"Assets/PlayerHealthUI.cs"
 -langversion:8.0
 
 /deterministic

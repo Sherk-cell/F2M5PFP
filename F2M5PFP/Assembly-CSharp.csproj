@@ -56,9 +56,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\C#\Healthsys\Playerhealth.cs" />
     <Compile Include="Assets\C#\Waypoints.cs" />
+    <Compile Include="Assets\PlayerHealthUI.cs" />
     <Compile Include="Assets\C#\Pathfollower.cs" />
     <Compile Include="Assets\C#\path.cs" />
+    <Compile Include="Assets\C#\Healthsys\HealthComp.cs" />
+    <Compile Include="Assets\C#\Healthsys\EnemyHealthComp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

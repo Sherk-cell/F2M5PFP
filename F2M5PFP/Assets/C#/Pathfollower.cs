@@ -55,6 +55,8 @@ public class Pathfollower : MonoBehaviour
         print("ik ben bij het eindpunt");
         speed = 0;
 
+        FindObjectOfType<Playerhealth>().Takedamage(1);
+        Destroy(gameObject);
     }
 
 
