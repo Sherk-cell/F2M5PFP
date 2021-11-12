@@ -324,6 +324,22 @@
 "Assets/C#/Pathfollower.cs"
 "Assets/C#/Waypoints.cs"
 "Assets/PlayerHealthUI.cs"
+"Assets/Scripts/aim.cs"
+"Assets/Scripts/Camswitch.cs"
+"Assets/Scripts/delayed_effect.cs"
+"Assets/Scripts/FinalTarget.cs"
+"Assets/Scripts/fpsaimer.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/gun.cs"
+"Assets/Scripts/ontriggereneter.cs"
+"Assets/Scripts/PauseMenu.cs"
+"Assets/Scripts/poop.cs"
+"Assets/Scripts/sceneswitcher.cs"
+"Assets/Scripts/spawner.cs"
+"Assets/Scripts/Target.cs"
+"Assets/Scripts/waypointcontroller.cs"
+"Assets/Scripts/weapontoggle.cs"
+"Assets/Scripts/winscreen.cs"
 -langversion:8.0
 
 /deterministic

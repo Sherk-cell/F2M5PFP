@@ -63,6 +63,22 @@
     <Compile Include="Assets\C#\path.cs" />
     <Compile Include="Assets\C#\Healthsys\HealthComp.cs" />
     <Compile Include="Assets\C#\Healthsys\EnemyHealthComp.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\aim.cs" />
+    <Compile Include="Assets\Scripts\gun.cs" />
+    <Compile Include="Assets\Scripts\waypointcontroller.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
+    <Compile Include="Assets\Scripts\Camswitch.cs" />
+    <Compile Include="Assets\Scripts\delayed_effect.cs" />
+    <Compile Include="Assets\Scripts\weapontoggle.cs" />
+    <Compile Include="Assets\Scripts\fpsaimer.cs" />
+    <Compile Include="Assets\Scripts\ontriggereneter.cs" />
+    <Compile Include="Assets\Scripts\FinalTarget.cs" />
+    <Compile Include="Assets\Scripts\poop.cs" />
+    <Compile Include="Assets\Scripts\winscreen.cs" />
+    <Compile Include="Assets\Scripts\spawner.cs" />
+    <Compile Include="Assets\Scripts\Target.cs" />
+    <Compile Include="Assets\Scripts\sceneswitcher.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
